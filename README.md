@@ -21,6 +21,20 @@ width="80%"
 
 </p>
 <h1 align="center">Hi 👋, I'm Mr.verma </h1>
+<h1 align="center">Hi 👋, I'm 
+<p align="center">
+<a href="https://t.me/About_Everett"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
+</p>
+<img
+width="80%"
+     src="https://github-readme-stats.vercel.app/api?username=kkverma25&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+
+    
+  
+
+
+</p>
+<h1 align="center">Hi 👋, I'm Mr.verma </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkverma25&label=Profile%20views&color=0e75b6&style=flat" alt="kkverma25" /> </p>
