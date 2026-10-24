@@ -1,123 +1,111 @@
-<!--
-  EVERETT | ULTRA LEGEND GITHUB PROFILE
-  GitHub username: kkverma25
--->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:1E1B4B,60:6D28D9,100:00E5FF&text=KAMAL%20DAAL&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=(%20EVERETT%20)%20%E2%9D%82&descSize=23&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:32105E,70:6D28D9,100:00D9FF&text=EVERETT&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20CONQUER&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Everett neon banner"/>
-
-<a href="https://github.com/kkverma25">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Everett+%E2%9D%82;Developer+%7C+Builder+%7C+Tech+Explorer;Turning+ideas+into+reality;Learning.+Building.+Leveling+Up." alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+DIGITAL+WORLD;DEVELOPER+%7C+TECH+ENTHUSIAST;AUTOMATION+%7C+ANDROID+%7C+TELEGRAM+BOTS;DREAM+BIG.+BUILD+DIFFERENT.+STAY+LEGENDARY." />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kkverma25&style=for-the-badge&color=6D28D9&label=PROFILE+VISITORS" alt="Profile visitors"/>
-<img src="https://img.shields.io/github/followers/kkverma25?style=for-the-badge&color=0891B2&labelColor=050816&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
+[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KamalDaal)
+[![Telegram](https://img.shields.io/badge/Telegram-020617?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://t.me/D_E_V_I_L_L)
+[![Instagram](https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E879F9)](https://instagram.com/ll__k_k_verma__ll)
+[![X](https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mr_devildad)
 
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkverma25)
-[![Telegram](https://img.shields.io/badge/Telegram-050816?style=for-the-badge&logo=telegram&logoColor=00D9FF)](https://t.me/About_Everett)
-[![Instagram](https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=instagram&logoColor=E879F9)](https://instagram.com/ll__k_k_verma__ll)
-[![X](https://img.shields.io/badge/X-050816?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mr_devildad)
+<img src="https://komarev.com/ghpvc/?username=KamalDaal&style=for-the-badge&color=6D28D9&label=PROFILE+VISITORS" />
 
 </div>
 
 ---
 
-## `whoami` — The Legend Behind the Code
+## ⚡ `WHO AM I?`
 
-```yaml
-Name: Everett (Mr. Verma)
-Username: kkverma25
-Location: India 🇮🇳
-Role: Developer in Progress
-Mindset: Think Different. Build Different.
-Currently: Exploring frameworks & building projects
-Mission: Turn curiosity into powerful creations
-Motto: Stay Curious. Stay Dangerous. Stay Legendary.
+```text
+Name       : Kamal Daal (Everett)
+Identity   : Developer & Technology Enthusiast
+Location   : India 🇮🇳
+Interests  : Coding, Automation, Android & Telegram Bots
+Mindset    : Learn. Create. Innovate.
+Mission    : Turn ideas into reality.
 ```
 
-- 🔭 Exploring new technologies and building useful projects.
-- 🌱 Currently learning frameworks and improving development skills.
-- 💻 Interested in Android, Telegram bots, web technologies and automation.
-- 🧠 I believe consistency beats motivation.
-- ⚡ Fun fact: I turn random ideas into interesting experiments.
+> "I don't follow the path. I build my own."
+
+- 💻 Exploring technologies and building digital projects.
+- 🤖 Interested in Telegram bots, Android and automation.
+- 🌱 Constantly learning new frameworks and development tools.
+- 🎯 Focused on creativity, experimentation and continuous improvement.
+- ⚡ Fun fact: Every crazy idea can become an interesting project.
 
 ---
 
-## `~/arsenal` — Tech Stack
+## 🛠️ `TECH ARSENAL`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,flutter,androidstudio,mongodb,mysql,git,github,vscode,aws,vue&theme=dark&perline=7" alt="Technologies and tools"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,nodejs,androidstudio,flutter,mongodb,mysql,git,github,vscode,aws&theme=dark&perline=7" />
 
 </div>
 
 ---
 
-## `~/stats` — GitHub Performance
+## 📊 `GITHUB STATISTICS`
 
 <div align="center">
 
-<a href="https://github.com/kkverma25">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kkverma25&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=A855F7&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KamalDaal&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=A78BFA&text_color=E2E8F0" />
 
-<a href="https://github.com/kkverma25">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkverma25&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E2E8F0" alt="Most used languages"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalDaal&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E2E8F0" />
 
-<br/>
+<br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=kkverma25&theme=tokyonight&hide_border=true&background=050816&ring=A855F7&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kkverma25&bg_color=050816&color=00D9FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=KamalDaal&theme=tokyonight&hide_border=true&background=020617&ring=8B5CF6&fire=00E5FF&currStreakLabel=00E5FF" />
 
 </div>
 
 ---
 
-## `~/projects` — Proof of Work
+## 🕰️ `THE JOURNEY — 2022 ONWARDS`
 
 <div align="center">
 
-<a href="https://github.com/kkverma25?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KamalDaal&bg_color=020617&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=EVERETT%20%7C%20CONTRIBUTION%20JOURNEY" width="100%" />
+
+**Started in 2022. Still learning. Still building.**
+
+</div>
+
+> Note: The activity graph above is generated by an external service and does not guarantee a complete historical record from 2022. For the exact 2022 contribution calendar, open your GitHub profile and select **2022** from the year selector.
+
+---
+
+## 🚀 `FEATURED PROJECTS`
+
+<div align="center">
+
+<a href="https://github.com/KamalDaal?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+Explore my repositories to discover experiments, tools and projects.
+
+---
+
+## 🌐 `CONNECT WITH ME`
+
+<div align="center">
+
+**Ideas are better when we build together.**
+
+<a href="https://t.me/D_E_V_I_L_L">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-TELEGRAM-00E5FF?style=for-the-badge&logo=telegram&logoColor=020617" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/kkverma25?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kkverma25&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=050816" alt="Featured project placeholder"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,50:6D28D9,100:020617" width="100%" />
 
-</div>
-
-> **Customize this section:** Replace `YOUR_REPOSITORY_NAME` with the name of an actual public repository you want to showcase. Add two or three project cards for your best work.
-
----
-
-## `~/connect` — Enter My Network
-
-<div align="center">
-
-**Got an idea? Let's build something legendary.**
-
-<a href="https://t.me/About_Everett">
-<img src="https://img.shields.io/badge/Message%20Me%20on%20Telegram-Join%20the%20Network-00D9FF?style=for-the-badge&logo=telegram&logoColor=050816" alt="Contact Everett on Telegram"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6D28D9,100:050816&height=120&section=footer" width="100%" alt="Neon footer"/>
-
-<sub>⚡ Designed with curiosity, powered by code, driven by ambition.</sub>
-
-<sub>© Everett · Keep building. Keep evolving. ❂</sub>
+<sub>⚡ KAMAL DAAL (EVERETT) · BUILT DIFFERENT · ❂</sub>
 
 </div>
