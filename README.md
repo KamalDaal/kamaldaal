@@ -1,65 +1,123 @@
-<h1> <img src="https://github.com/kkverma25/kkverma25/blob/master/resources/codes.webp" width="100px"> 𝐇𝐄𝐘 𝐓𝐇𝐈𝐒 𝐈𝐒 𝐄𝐕𝐄𝐑𝐄𝐓𝐓 ❂ </h1>
-
-
-
-    
- -->    <img align="middle" src="" />
-
-</p>
+<!--
+  EVERETT | ULTRA LEGEND GITHUB PROFILE
+  GitHub username: kkverma25
 -->
-<h1 align="center">Hi 👋, I'm 
-<p align="center">
-<a href="https://t.me/About_Everett"><img src="https://envs.sh/nHb.jpg"></a>
-</p>
-<img
-width="80%"
-     src="https://github-readme-stats.vercel.app/api?username=kkverma25&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
 
-    
-  
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:32105E,70:6D28D9,100:00D9FF&text=EVERETT&fontColor=FFFFFF&fontSize=75&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20CONQUER&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Everett neon banner"/>
 
-</p>
-<h1 align="center">Hi 👋, I'm Mr.verma </h1>
-<h1 align="center">Hi 👋, I'm 
-<p align="center">
-<a href="https://t.me/About_Everett"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
-</p>
-<img
-width="80%"
-     src="https://github-readme-stats.vercel.app/api?username=kkverma25&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+<a href="https://github.com/kkverma25">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Everett+%E2%9D%82;Developer+%7C+Builder+%7C+Tech+Explorer;Turning+ideas+into+reality;Learning.+Building.+Leveling+Up." alt="Animated introduction"/>
+</a>
 
-    
-  
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=kkverma25&style=for-the-badge&color=6D28D9&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://img.shields.io/github/followers/kkverma25?style=for-the-badge&color=0891B2&labelColor=050816&logo=github&label=FOLLOWERS" alt="GitHub followers"/>
 
-</p>
-<h1 align="center">Hi 👋, I'm Mr.verma </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkverma25&label=Profile%20views&color=0e75b6&style=flat" alt="kkverma25" /> </p>
+[![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkverma25)
+[![Telegram](https://img.shields.io/badge/Telegram-050816?style=for-the-badge&logo=telegram&logoColor=00D9FF)](https://t.me/About_Everett)
+[![Instagram](https://img.shields.io/badge/Instagram-050816?style=for-the-badge&logo=instagram&logoColor=E879F9)](https://instagram.com/ll__k_k_verma__ll)
+[![X](https://img.shields.io/badge/X-050816?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mr_devildad)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkverma25" alt="kkverma25" /></a> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/mr_devildad" target="blank"><img src="https://img.shields.io/twitter/follow/mr_devildad?logo=twitter&style=for-the-badge" alt="mr_devildad" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Frameworks**
+## `whoami` — The Legend Behind the Code
 
-- 💬 Ask me about **Android,Telegram,snapchat,instagram**
+```yaml
+Name: Everett (Mr. Verma)
+Username: kkverma25
+Location: India 🇮🇳
+Role: Developer in Progress
+Mindset: Think Different. Build Different.
+Currently: Exploring frameworks & building projects
+Mission: Turn curiosity into powerful creations
+Motto: Stay Curious. Stay Dangerous. Stay Legendary.
+```
 
-- 📫 How to reach me **mr.devildad01@gmail.com**
+- 🔭 Exploring new technologies and building useful projects.
+- 🌱 Currently learning frameworks and improving development skills.
+- 💻 Interested in Android, Telegram bots, web technologies and automation.
+- 🧠 I believe consistency beats motivation.
+- ⚡ Fun fact: I turn random ideas into interesting experiments.
 
-- ⚡ Fun fact **I am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://t.me/d_e_v_l_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://t.me/d_e_v_l_l" height="30" width="40" /></a>
-<a href="https://twitter.com/mr_devildad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_devildad" height="30" width="40" /></a>
-<a href="https://instagram.com/ll__k_k_verma__ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll__k_k_verma__ll" height="30" width="40" /></a>
-</p>
+## `~/arsenal` — Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkverma25&show_icons=true&locale=en&layout=compact" alt="kkverma25" /></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,flutter,androidstudio,mongodb,mysql,git,github,vscode,aws,vue&theme=dark&perline=7" alt="Technologies and tools"/>
 
+</div>
+
+---
+
+## `~/stats` — GitHub Performance
+
+<div align="center">
+
+<a href="https://github.com/kkverma25">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kkverma25&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=A855F7&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/kkverma25">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkverma25&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=E2E8F0" alt="Most used languages"/>
+</a>
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=kkverma25&theme=tokyonight&hide_border=true&background=050816&ring=A855F7&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kkverma25&bg_color=050816&color=00D9FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## `~/projects` — Proof of Work
+
+<div align="center">
+
+<a href="https://github.com/kkverma25?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/kkverma25?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kkverma25&repo=YOUR_REPOSITORY_NAME&theme=tokyonight&hide_border=true&bg_color=050816" alt="Featured project placeholder"/>
+</a>
+
+</div>
+
+> **Customize this section:** Replace `YOUR_REPOSITORY_NAME` with the name of an actual public repository you want to showcase. Add two or three project cards for your best work.
+
+---
+
+## `~/connect` — Enter My Network
+
+<div align="center">
+
+**Got an idea? Let's build something legendary.**
+
+<a href="https://t.me/About_Everett">
+<img src="https://img.shields.io/badge/Message%20Me%20on%20Telegram-Join%20the%20Network-00D9FF?style=for-the-badge&logo=telegram&logoColor=050816" alt="Contact Everett on Telegram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6D28D9,100:050816&height=120&section=footer" width="100%" alt="Neon footer"/>
+
+<sub>⚡ Designed with curiosity, powered by code, driven by ambition.</sub>
+
+<sub>© Everett · Keep building. Keep evolving. ❂</sub>
+
+</div>
